@@ -8,7 +8,7 @@ import seaborn as sns
 st.title("Webapp Using Streamlit")
  
 #Image
-st.image("streamlit.png",width=500)
+#st.image("streamlit.png",width=500)
 
 st.title("Case study on diamond dataset")
 
