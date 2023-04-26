@@ -9,6 +9,7 @@ st.title("Webapp Using Streamlit")
  
 #Image
 #st.image("streamlit.png",width=500)
+st.image("https://4cs.gia.edu/wp-content/uploads/2022/07/1-262298.jpg", width=500)
 
 st.title("Case study on diamond dataset")
 
